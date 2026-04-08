@@ -36,3 +36,4 @@ Pods/
 *.log
 *.tmp
 Thumbs.db
+*.zip
